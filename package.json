@@ -1,0 +1,32 @@
+{
+  "name": "npm-init-example",
+  "version": "1.0.0",
+  "description": "Example package.json",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "multiparty": "^4.2.2",
+    "nodemailer": "^6.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pritomnyc/portfolio-responsive-complete.git"
+  },
+  "keywords": [
+    "example",
+    "package.json",
+    "npm",
+    "init"
+  ],
+  "author": "Mahim Pritom mahim.pritom@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pritomnyc/portfolio-responsive-complete/issues"
+  },
+  "homepage": "https://github.com/pritomnyc/portfolio-responsive-complete#readme"
+}
