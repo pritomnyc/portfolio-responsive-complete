@@ -57,7 +57,7 @@ sr.reveal(".work__img", { interval: 200 });
 sr.reveal(".contact__input", { interval: 200 });
 
 /* CONTACT SUBMIT*/
-const form = document.querySelect(".contact__form");
+const form = document.getElementById("contact-form");
 
 const formEvent = form.addEventListener("submit", (event) => {
   event.preventDefault();
